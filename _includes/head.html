@@ -1,6 +1,6 @@
 <head prefix="og: http://ogp.me/ns#; dc: http://purl.org/dc/terms/#">
-  {% capture resource_url %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endcapture %}
-  {% capture directory_url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+  {% capture resource_url %}{{ site.url }}{{ page.url }}{% endcapture %}
+  {% capture directory_url %}{{ site.url }}{% endcapture %}
   <!-- Canonical link to help search engines -->
   <link rel="canonical" href="{{ resource_url }}" />
 
@@ -30,11 +30,9 @@
   <!-- Open Graph metadata -->
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:url" content="{{ resource_url }}" />
-  <meta property="og:image" content="assets/open-graph-logo.png" />
+  <meta property="og:image" content="/assets/open-graph-logo.png" />
   <meta property="og:image:width" content="200" />
   <meta property="og:image:height" content="200" />
-  <meta property="fb:admins" content="elotroalex" />
-  <meta property="fb:app_id" content="589495744558280" />
 
 {% if page.layout == "default" %}
   <meta property="og:description" content="{{ site.description }}">
@@ -45,11 +43,11 @@
 {% endif %}
 
   <!-- CSS link -->
-  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="/assets/css/style.css" />
 
   <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="{{ site.baseurl }}/assets/apple-touch-icon-precomposed.png" />
-  <link rel="shortcut icon" href="assets/favicon.ico" />
+  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/apple-touch-icon-precomposed.png" />
+  <link rel="shortcut icon" href="/assets/favicon.ico" />
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ directory_url }}/atom.xml" />
