@@ -5,7 +5,7 @@ title:               EverDigital.
 tagline:             'Digital transformation insights'
 description:         'Everdigital is the blog of Compound Digital Technologies Ltd'
 url:                 'http://alistairwilson.github.io'
-baseurl:             '/'
+baseurl:             '/ed'
 
 # About/contact
 author:
@@ -59,4 +59,4 @@ exclude:
 # Remote Theme
 # (Used only for GitHub deployments)
 # See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
-remote_theme: minicomp/ed
+remote_theme: alistairwilson/ed
