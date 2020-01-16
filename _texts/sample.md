@@ -3,7 +3,7 @@ layout: narrative
 title: Getting it built
 author: Alistair Wilson
 source: Doctoral Research
-publication-date: 2019
+publication-date: 2019-12-01
 toc:
 - Preface
 - Letter from Wendell Phillips
@@ -12,8 +12,7 @@ toc:
 
 ---
 <a id="title-page" />
-<p class="centered large">NARRATIVE<br>OF THE<br>LIFE<br>OF</p>
-<br>
+<p class="centered large">NARRATIVE<br>OF THE<br>LIFE<br>OF</p>~<br>~
 <p class="centered larger">FREDERICK DOUGLASS</p>
 <p class="centered large">AN<br>AMERICAN SLAVE.<br>WRITTEN BY HIMSELF.</p>
 <br>
@@ -23,9 +22,8 @@ toc:
 ---
 
 ## PREFACE
-
 In the month of August, 1841, I attended an anti-slavery convention in Nantucket, at which it was my happiness to become acquainted with *Frederick Douglass*, the writer of the following Narrative. He was a stranger to nearly every member of that body; but, having recently made his escape from the southern prison-house of bondage, and feeling his curiosity excited to ascertain the principles and measures of the abolitionists,—of whom he had heard a somewhat vague description while he was a slave,—he was induced to give his attendance, on the occasion alluded to, though at that time a resident in New Bedford.
-ured by the many sufferings he has endured, by his virtuous traits of character, by his ever-abiding remembrance of those who a
+Used by the many sufferings he has endured, by his virtuous traits of character, by his ever-abiding remembrance of those who a
 
 I shall never forget his first speech at the convention—the extraordinary emotion it excited in my own mind—the powerful impression it created upon a crowded auditory, completely taken by surprise—the applause which followed from the beginning to the end of his felicitous remarks. I think I never hated slavery so intensely as at that moment; certainly, my perception of the enormous outrage which is inflicted by it, on the godlike nature of its victims, was rendered far more clear than ever. There stood one, in physical proportion and stature commanding and exact—in intellect richly endowed—in natural eloquence a prodigy—in soul manifestly "created but a little lower than the angels"—yet a slave, ay, a fugitive slave,—trembling for his safety, hardly daring to believe that on the American soil, a single white person could be found who would befriend him at all hazards, for the love of God and humanity! Capable of high attainments as an intellectual and moral being—needing nothing but a comparatively small amount of cultivation to make him an ornament to society and a blessing to his race—by the law of the land, by the voice of the people, by the terms of the slave code, he was only a piece of property, a beast of burden, a chattel personal, nevertheless!
 
