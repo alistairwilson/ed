@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: default
 title: A does a test
 author: Alistair Wilson
 source: Ciudad Seva
