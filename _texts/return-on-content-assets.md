@@ -2,6 +2,7 @@
 layout: post
 title: Return on Content Assets
 author: Alistair Wilson
+tags: [workflow automation, sales digitalisation]()
 
 ---
 
@@ -85,7 +86,7 @@ If you have no structure to guide a sales stage, your optimisation of that stage
 
 If you have a certain version of an informational guide that is used in a well defined structure for a given part of the sales process, then you can begin to test other versions against an established baseline for that stage.
 
-This approach is particularly easy to manage and track if you use a flexible CRM tool like Pipedrive [^2] which lets you view progress from one stage to another and set up custom fields in a customer record to tag which version of a piece of content they saw… from which you can analyse correlations.
+This approach is particularly easy to manage and track if you use a flexible CRM tool like Pipedrive [^1] which lets you view progress from one stage to another and set up custom fields in a customer record to tag which version of a piece of content they saw… from which you can analyse correlations.
 
 **B.4. Street Cred**
 
@@ -114,7 +115,7 @@ This piece of content is fitting into your sales process, not replacing your sal
 What it does though is engages your sales people with the optimisation of the overall sales process.  This side benefit will actually become a main benefit as you look to grow your teams on the back of standardised processes.
 
 Eventually you will build a library of assets for each stage of the process and each one will target certain concerns that a prospect in that stage could have.  This will be captured in what I call an *Empathy Matrix*.
-When you pair this with the other activities like progressive profiling [^1], your sales results will improve to new highs and you’ll have very motivated sales people engaged with the process.
+When you pair this with the other activities like progressive profiling [^2], your sales results will improve to new highs and you’ll have very motivated sales people engaged with the process.
 
 ## How to create effective content assets
 > **Note:** Please always design a test (or better, some test**s**) before committing to a change initiative like this. More on that later.
@@ -126,17 +127,16 @@ This process is something we take clients through regularly, if you are interest
 1. **Pick a stage**: Choose a sales stage to focus on. Consider basing this choice on data from your CRM, looking at which stages most closely correlate to winning deals.  Also look at where you seem to have unusually high drop-off rates from one stage to another, there could be certain issues that can be addressed with the right content assets.  Pick one you want to optimise (use the process below if needed)
 2. **Reflect**: Reflect on ten or more recent client interactions in this (or a couple from your shortlist) stage.  Gather everyone involved in those interactions from within your team and get them in a single room with a stated goal for the workshop “to understand the customer’s needs at that stage of the sales process”.
 3. **Dissect**: Analyse the interactions with customers that progressed beyond that stage in contrast to those that did not:
-	
-    3.1. What situational attributes did they share?
-	
-    3.2. What situational attributes were different?
-	
-    3.3. What questions did they ask?
-	
-    3.4. What concerns did they raise?
-	
-    3.5. What responses were they given?
-    
+
+	3.1. What situational attributes did they share?
+
+	3.2. What situational attributes were different?
+
+	3.3. What questions did they ask?
+
+	3.4. What concerns did they raise?
+
+	3.5. What responses were they given?
 4. **Identify the top issues**: Highlight a maximum of three questions / concerns to address in a content asset. If you go beyond three, your asset is in danger of being another generic company brochure.  Keep it focussed on as few themes as possible.
 5. **Generate FAQs**: With your stakeholders, brainstorm FAQs related to the questions / concerns raised.  Every question your stakeholders have ever been asked by a client in this stage should get its own FAQ treatment.  These should be thorough, containing all of the metaphors, statistics and spiel your sales people would use with any one of those clients if they were sat in the room with them.  Give links to other resources you can offer (to articles, guides you’ve written or helpful resources available from non-competing parties (government, industry bodies) - put everything you can into those FAQs.
 6. **Create beta doc**: Put together a PDF for your initial test. You can do videos etc later because they’re a lot more intense and expensive to produce in the beta stage.  Right now, just focus on the natural framework that comes from your FAQs for the issues you identified.
@@ -157,6 +157,9 @@ My golden rule is to always test new approaches to see if they actually improve 
 ## Need some help with that?
 If you’re not sure how to help your team produce the kind of content assets that’s going to deliver the value I’ve outlined here.  We can help you through training and workshops to get everyone pulling in the right direction.
 
-[^1]:	Progressive profiling is the gradual accumulation of data about a prospect from their first interaction with one of your your digital assets (e.g. website, social profile, guide download) to build  a picture of them.  Every interaction they have with any asset in your digital estate can be linked into a single dataset, even when they are a total stranger to you. Read more on the subject by Kuno, [experts in Inbound Marketing](https://www.kunocreative.com/blog/progressive-profiling)
+[^1]:	Pipedrive: I wholeheartedly recommend it if you don't yet have a CRM system in place: [Get it here][2]
 
-[^2]:	Pipedrive: I wholeheartedly recommend it if you don't yet have a CRM system in place: [Get it here](https://www.pipedrive.com/register)
+[^2]:	Progressive profiling is the gradual accumulation of data about a prospect from their first interaction with one of your your digital assets (e.g. website, social profile, guide download) to build  a picture of them.  Every interaction they have with any asset in your digital estate can be linked into a single dataset, even when they are a total stranger to you. Read more on the subject by Kuno, [experts in Inbound Marketing][3]
+
+[2]:	https://www.pipedrive.com/register
+[3]:	https://www.kunocreative.com/blog/progressive-profiling
