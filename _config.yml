@@ -13,7 +13,7 @@ author:
   email:             a.wilson@gocompound.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: red
+color-scheme: magenta
 
 # Permalinks
 permalink: pretty
