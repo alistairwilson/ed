@@ -2,7 +2,7 @@
 layout: post
 title: Return on Content Assets
 author: Alistair Wilson
-tags: [workflow automation, sales digitalisation]()
+tags: [workflow automation, sales digitalisation]
 
 ---
 
@@ -157,9 +157,9 @@ My golden rule is to always test new approaches to see if they actually improve 
 ## Need some help with that?
 If you’re not sure how to help your team produce the kind of content assets that’s going to deliver the value I’ve outlined here.  We can help you through training and workshops to get everyone pulling in the right direction.
 
-[^1]:	Pipedrive: I wholeheartedly recommend it if you don't yet have a CRM system in place: [Get it here][2]
+[^1]:	Pipedrive: I wholeheartedly recommend it if you don't yet have a CRM system in place: [Get it here][1]
 
-[^2]:	Progressive profiling is the gradual accumulation of data about a prospect from their first interaction with one of your your digital assets (e.g. website, social profile, guide download) to build  a picture of them.  Every interaction they have with any asset in your digital estate can be linked into a single dataset, even when they are a total stranger to you. Read more on the subject by Kuno, [experts in Inbound Marketing][3]
+[^2]:	Progressive profiling is the gradual accumulation of data about a prospect from their first interaction with one of your your digital assets (e.g. website, social profile, guide download) to build  a picture of them.  Every interaction they have with any asset in your digital estate can be linked into a single dataset, even when they are a total stranger to you. Read more on the subject by Kuno, [experts in Inbound Marketing][2]
 
-[2]:	https://www.pipedrive.com/register
-[3]:	https://www.kunocreative.com/blog/progressive-profiling
+[1]:	https://www.pipedrive.com/register
+[2]:	https://www.kunocreative.com/blog/progressive-profiling
