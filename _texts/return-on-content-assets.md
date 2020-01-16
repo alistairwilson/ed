@@ -152,10 +152,12 @@ My golden rule is to always test new approaches to see if they actually improve 
 4. Record the outcome of the meetings with and without, compare and reflect on the results.
 5. Based on your analysis of the outcomes with and without, make a decision to drop the approach or keep it and optimise for greater results.  Test different media through which to deliver the information.  Test more in-depth explanations versus brevity.  Test whatever variations you can think of in a controlled manner.
 
-<hr>
+~***~
 
 ## Need some help with that?
 If you’re not sure how to help your team produce the kind of content assets that’s going to deliver the value I’ve outlined here.  We can help you through training and workshops to get everyone pulling in the right direction.
+
+<hr style="border-top:3px">
 
 [^1]:	Pipedrive: I wholeheartedly recommend it if you don't yet have a CRM system in place: [Get it here][1]
 
