@@ -1,12 +1,12 @@
 ---
 layout: narrative
-title: “Sample “text
+title: Getting it built
 author: Alistair Wilson
 source: Doctoral Research
 publication-date: 2019
 toc:
 - Preface
-- Letter from Wendell Phillips, Esq.
+- Letter from Wendell Phillips
 - Appendix
 ---
 
