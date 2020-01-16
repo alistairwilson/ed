@@ -33,9 +33,9 @@ baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Alistair Wilson
+  url:               https://twitter.com/alistairswilson
+  email:             a.wilson@gocompound.com
 
 # Custom vars
 version:             0.0.5
