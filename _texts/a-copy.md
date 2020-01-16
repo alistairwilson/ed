@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: post
 title: A does a test
 author: Alistair Wilson
 source: Ciudad Seva
