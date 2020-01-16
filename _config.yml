@@ -4,7 +4,8 @@
 title:               'EverDigital.'
 tagline:             'Digital transformation insights'
 description:         'Everdigital is the blog of Compound Digital Technologies Ltd'
-baseurl:             '/ed'
+url:                 'https://www.thedigitalexec.com'
+baseurl:             ''
 
 # About/contact
 author:
