@@ -6,24 +6,25 @@ title: "Ed."
     <h1>hello.</h1>
 
     <p>
-        EverDigital.io is an occasional blog of the <a href="https://gocompound.com/" target="_blank">Compound</a> team. This blog covers serious topics like digital transformation as well as our various digital tinkerings and experiments.
+        <strong>EverDigital.io</strong> is an occasional blog of the <a href="https://gocompound.com/" target="_blank">Compound</a> team of digital strategy consultants. This blog covers serious topics like digital transformation as well as various digital tinkerings and experiments.
     </p>
 </div>
 
 
 
 <div class="toc">
-    <h2>Latest Posts</h2>
-    <ul class="">
+    <h2>Latest Articles</h2>
+    
         {% for item in site.texts %}
 
-        <li class="">
+        
 
-            <h2>{{ item.title }}</h2>
+            <a href="{{ site.baseurl }}{{ item.url }}"><h2 style="font-style:italic">{{ item.title }}</h2>
             <p>{{ item.excerpt }}</p>
-            <p style="text-align:right"><a href="{{ site.baseurl }}{{ item.url }}">... Read More</a></p>
-        </li>
-        <hr>
+            </a>
+            <hr>
+        
+        
         {% endfor %}
-    </ul>
+    
 </div>
