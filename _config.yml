@@ -4,8 +4,7 @@
 title:               'EverDigital.'
 tagline:             'Digital transformation insights'
 description:         'Everdigital is the blog of Compound Digital Technologies Ltd'
-url:                 'alistairwilson.github.io'
-baseurl:             ''
+baseurl:             'alistairwilson.github.io/ed'
 
 # About/contact
 author:
