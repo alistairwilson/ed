@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Growth & Transformation Expertise
+title: About
 ---
 
 &nbsp;
