@@ -10,21 +10,20 @@ title: "Digital Transformation Articles | EverDigital.io"
     </p>
 </div>
 
-
-
 <div class="toc">
     <h2>Latest Articles</h2>
-    
-        {% for item in site.texts %}
 
-        
+    {% for item in site.texts %}
 
-            <a href="{{ site.baseurl }}{{ item.url }}"><h2 style="font-style:italic">{{ item.title }}</h2>
-            <p>{{ item.excerpt }}</p>
-            </a>
-            <hr>
-        
-        
-        {% endfor %}
-    
+
+
+    <a href="{{ site.baseurl }}{{ item.url }}">
+        <h2 style="font-style:italic">{{ item.title }}</h2>
+        <p>{{ item.excerpt }}</p>
+    </a>
+    <hr>
+
+
+    {% endfor %}
+
 </div>

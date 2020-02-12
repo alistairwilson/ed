@@ -7,6 +7,9 @@ description:         'Everdigital is the blog of Compound Digital Technologies L
 url:                 'https://everdigital.io'
 baseurl:             '/'
 
+
+# Customisation
+
 # About/contact
 author:
   name:              Alistair Wilson
