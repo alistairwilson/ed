@@ -4,11 +4,11 @@ title: How to Generate Numbered Headings and/or Lists in Ulysses
 author: Alistair Wilson
 tags: [Mac apps,ulysses,blogging]
 ---
-# How to Generate Numbered Headings and/or Lists in Ulysses
 ## What's Missing in Ulysses?
 If you write long form pieces or complex manuscripts and you're on Mac, it's likely that Ulysses features heavily in your setup. Whilst it *is* powerful and has many nice features, it does lack two key features that tools like *MS Word* do have:
 - Outline Numbered Lists
 - Outline Numbered Headings
+
 These two formatting features really do make complex or structured documents, especially technical or academic papers, a lot clearer and easily navigable.
 ![][image-1]
   
